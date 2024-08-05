@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 import asyncio
 """
 a module that defines a function to return a task
